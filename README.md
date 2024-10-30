@@ -1,0 +1,1 @@
+Es un codigo donde se da la nota de los examenes de un estudiante, y se calcula el promedio dependiendo de la cantidad de examenes que hizo por curso, por ultimo imprime si va a ampliacion, si aprobo el o o si reprobo
